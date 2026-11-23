@@ -1,6 +1,0 @@
-<html>
-<head>My First Gitfile</head>
-<title>Learn Git Branching</title>
-<body>
-</body>
-</html>
